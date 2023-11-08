@@ -33,6 +33,9 @@
 ### Softwares and tools I use daily
 <img height="48" src="img/vscode.svg" alt="vscode">  <img height="48" src="img/colab.svg" alt="Google colab"> <img height="48" src="img/arduino.svg" alt="Arduino"> <img height="48" src="img/notion.svg" alt="Notion">
 
+### Languages and Tools:
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
 
 ### Connect with me
 <div id="social-media" style="text-align:left">
