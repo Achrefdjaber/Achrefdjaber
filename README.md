@@ -1,4 +1,4 @@
-## Hi 👋, I'm a last year student in Electronics at Ecole Nationale Polytechnique
+## Hi 👋, I'm a last year Electronics student  at Ecole Nationale Polytechnique
 <p align="left">
   <a href="https://github.com/Achrefdjaber?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/boudia-abderaouf?color=green&logo=github">
@@ -16,7 +16,7 @@
 - :calendar: Seeking a data science internship opportunity (1 month) for December 2023
 
 ### Bio
-- 🏢 I'm currently a last  student in Electronics at **Ecole Nationale Polytechnique**
+- 🏢 I'm currently a last year  Electronics  student at **Ecole Nationale Polytechnique**
 - ⚙️ I use daily: `.py`, `.ipynb` and `.cpp`
 - 🌱 Learning all about **Data science** and **Machine Learning**
 - 💬 Ping me about **Python**, **Machine Learning**, **Deep Learning**,  **Signal processing**
