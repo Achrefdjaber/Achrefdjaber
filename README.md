@@ -28,7 +28,7 @@
 <img height="48" src="img/python.svg" alt="python"><img height="48" src="img/Linux.svg" alt="Linux">
 
 ### Python libraries mastered
-<img height="48" src="img/pandas.svg" alt="Pandas"> <img height="48" src="img/numpy.svg" alt="Numpy"> <img height="48" src="img/Matplotlib.svg" alt="Matplotlib"> <img height="48" src="img/seaborn.svg" alt="Seaborn"> <img height="48" src="img/Scikitlearn.svg" alt="Scikitlearn"> <img height="48" src="img/keras.svg" alt="Keras"> <img height="48" src="img/tensorflow.svg" alt="Tensorflow"> <img height="48" src="img/TensorFlow_lite.png" alt="tflite"> 
+<img height="48" src="img/pandas.svg" alt="Pandas"> <img height="48" src="img/numpy.svg" alt="Numpy"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib"> <img height="48" src="img/seaborn.svg" alt="Seaborn"> <img height="48" src="img/Scikitlearn.svg" alt="Scikitlearn"> <img height="48" src="img/keras.svg" alt="Keras"> <img height="48" src="img/tensorflow.svg" alt="Tensorflow"> <img height="48" src="img/TensorFlow_lite.png" alt="tflite"> 
 
 ### Softwares and tools I use daily
 <img height="48" src="img/vscode.svg" alt="vscode">  <img height="48" src="img/colab.svg" alt="Google colab"> <img height="48" src="img/arduino.svg" alt="Arduino"> <img height="48" src="img/notion.svg" alt="Notion">
