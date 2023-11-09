@@ -22,7 +22,7 @@
 - 💬 Ping me about **Python**, **Machine Learning**, **Deep Learning**,  **Signal processing**
 - 📫 Reach me: [https://www.linkedin.com/in/achref-djaber-0b9381230/)
 - :email: Send me an email to achref.djaber2@gmail.com
-- 📝 Checkout my [Resume](./file/MON-CV.pdf).
+- 📝 Checkout my [Resume](./file/mon-cv.pdf).
 
 ### My current stack
 <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux">
