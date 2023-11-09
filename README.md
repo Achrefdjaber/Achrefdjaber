@@ -25,13 +25,13 @@
 - 📝 Checkout my [Resume](./file/MON-CV.pdf).
 
 ### My current stack
-<img height="48" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python"><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux">
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux">
 
 ### Python libraries mastered
 <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/langfr-800px-Pandas_mark.svg.png" alt="Pandas"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib"> <img height="48" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikitlearn"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Tensorflow"> <img height="48" src="https://devzone.nordicsemi.com/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-04/tensorflow_2D00_lite_2D00_logo_2D00_social.png_2D00_1060x400x2.png?_=637912379821557228" alt="tflite"> 
 
 ### Softwares and tools I use daily
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode">  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google colab"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion">
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode">  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google colab"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter">
 
 ### Languages and Tools:
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
