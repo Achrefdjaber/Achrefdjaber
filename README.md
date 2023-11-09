@@ -1,7 +1,7 @@
 ## Hi 👋, I'm a last year Electronics student  at Ecole Nationale Polytechnique
 <p align="left">
   <a href="https://github.com/Achrefdjaber?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/boudia-abderaouf?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Achrefdjaber?color=green&logo=github">
   </a>
   <a href="https://github.com/Achrefdjaber/">
     <img src="https://komarev.com/ghpvc/?username=Achrefdjaber" alt="visitors" />
