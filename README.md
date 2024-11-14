@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Master's student in Artificial Intelligence at the University of Paris-Saclay and a graduate in Electronics Engineering from the National Polytechnic School.
+##  Hi 👋, I'm a Master's student in Artificial Intelligence at the University of Paris-Saclay and a graduate in Electronics Engineering from the National Polytechnic School.
 <p align="left">
   <a href="https://github.com/Achrefdjaber?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Achrefdjaber?color=green&logo=github">
