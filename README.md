@@ -12,11 +12,11 @@
 </a>
 
 ### Now
-- :fire: Passionate about data science, machine learning, deep learning, Signal processing and electronics.
-- :calendar: Seeking a data science internship opportunity (1 month) for December 2023
+- :fire: Passionate about data science, machine learning, deep learning, computer vision, Signal processing and electronics.
+- :calendar: Seeking a data science internship opportunity (6 month) for february 2025
 
 ### Bio
-- 🏢 I'm currently a last year  Electronics  student at **Ecole Nationale Polytechnique**
+- 🏢 I'm currently a M2  Artificial Intelligenc  student at **University of Paris-Saclay**
 - ⚙️ I use daily: `.py`, `.ipynb` and `.cpp`
 - 🌱 Learning all about **Data science** and **Machine Learning**
 - 💬 Ping me about **Python**, **Machine Learning**, **Deep Learning**,  **Signal processing**
