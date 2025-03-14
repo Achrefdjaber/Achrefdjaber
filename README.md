@@ -20,7 +20,7 @@
 - 🏢 I'm currently a M2  Artificial Intelligenc  student at **University of Paris-Saclay**
 - ⚙️ I use daily: `.py`, `.ipynb` and `.cpp`
 - 🌱 Learning all about **Data science** and **Machine Learning**
-- 💬 Ping me about **Python**, **Machine Learning**, **Deep Learning**,  **Signal processing**
+- 💬 Ping me about **Python**, **Machine Learning**, **Deep Learning**,  **Signal processing** , **Computer Vision** 
 - 📫 Reach me: [https://www.linkedin.com/in/achref-djaber-0b9381230/)
 - :email: Send me an email to achref.djaber2@gmail.com
 - 📝 Checkout my [Resume](./file/mon-cv.pdf).
